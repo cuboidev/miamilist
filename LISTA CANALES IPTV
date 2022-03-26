@@ -1,766 +1,634 @@
-77 - London Live HD
-78 - ITV
-79 - ITV 2
-80 - ITV 3
-81 - ITV 4
-82 - TG 4
-83 - 4 Seven
-84 - Channel 4
-85 - Channel 5
-86 - Sky Living
-87 - Watch
-88 - Gold
-89 - Dave
-90 - Sky One
-91 - Sky Atlantic
-92 - E4
-93 - More 4
-94 - Challenge
-95 - Irish TV
-96 - Pick
-97 - 5 Star
-98 - RTE One
-99 - RTE Two
-100 - BBC One
-101 - BBC Two
-102 - BBC Three
-103 - BBC Four
-104 - 5 USA
-105 - USA Network East
-106 - TV Land
-107 - Comedy Central East
-108 - Lifetime East
-109 - Lifetime Movie Network East
-110 - True Drama
-111 - Good Food
-112 - Food Network East
-113 - Cooking Channel
-114 - E!
-115 - HGTV East
-116 - DIY Network USA
-117 - Drama
-118 - A&E East
-119 - Discovery History
-120 - History
-121 - Really
-122 - Syfy
-123 - TLC (UK)
-124 - ITV Be
-125 - Alibi
-126 - Reelz
-127 - Oxygen
-128 - WE TV
-129 - Bravo East
-130 - CBS Action
-131 - AMC East
-132 - TCM US
-133 - IFC East
-134 - FOX (UK)
-135 - BBC America
-136 - FX East
-137 - ITV Encore +1
-138 - TNT
-139 - TBS East
-140 - ESPN US
-141 - ESPNU
-142 - ESPNews US
-143 - ESPN 2 US
-144 - Sky Sports News
-145 - TSN 1 HD
-146 - TSN 2 HD
-147 - TSN 3 HD
-148 - TSN 4 HD
-149 - TSN 5 HD
-150 - Fox Sports 1 US
-151 - Fox Sports 2 US
-152 - MLB Network
-153 - MLB Extra Innings
-154 - NFL Network
-155 - UFC Network
-156 - NBA TV
-157 - NHL Network USA
-158 - CBS Sports Network
-159 - NBC Sport Network
-160 - WWE Network
-161 - MAV Tv
-162 - REV'N HD
-164 - Poker Central
-165 - PAC-12 Networks HD
-166 - PAC-12 Arizona HD
-167 - PAC-12 Bay Area HD
-168 - PAC-12 Los Angeles HD
-169 - PAC-12 Mountain HD
-170 - PAC-12 Oregon HD
-171 - PAC-12 Washington HD
-172 - Disney Channel East
-173 - Disney Jr
-174 - Disney XD
-175 - Boomerang USA
-176 - Cartoon Network (UK)
-177 - Nickelodeon East
-178 - Nick Jr
-179 - Teen Nick
-180 - FREEFORM
-181 - Discovery Family
-182 - Discovery Channel USA
-183 - Discovery Life Channel
-184 - Animal Planet
-185 - Nat Geo Wild
-186 - National Geographic Channel
-187 - Yesterday
-188 - Eden
-189 - RT Documentary HD
-190 - Discovery Turbo
-191 - Dmax
-192 - Investigation Discovery
-193 - Science Channel
-194 - Destination America
-195 - American Heroes Channel
-196 - Travel Channel UK
-197 - CBS Drama
-198 - CBS Reality
-199 - Chiller TV
-200 - CNN US
-201 - Headline News
-202 - Bloomberg TV US
-203 - CBS News HD
-204 - RT US HD
-205 - Fox News Channel
-206 - Fox Business
-207 - ABC News
-208 - CNBC US
-209 - MSNBC
-210 - WGN News
-211 - C-Span mHD
-212 - C-Span 2 - Book TV HD
-213 - C-Span 3 - American History TV HD
-214 - The Weather Channel
-215 - WeatherNation HD
-216 - The Weather Network
-217 - Traffic and Weather New York
-218 - Traffic and Weather New Jersey
-219 - Traffic and Weather Long Island
-220 - Traffic and Weather Hudson Valley
-221 - News 12 Brooklyn
-222 - News 12 Bronx
-223 - News 12 Long Island
-224 - News 12 Hudson Valley
-225 - News 12 New Jersey
-226 - News 12 Connecticut
-227 - News 12 Westchester
-228 - BBC News
-229 - SKY News
-230 - RT UK HD
-231 - Bloomberg TV UK
-232 - CCTV News
-233 - Bloomberg TV Asia
-234 - BBC World News
-235 - TRT World HD
-236 - RT International HD
-237 - France 24 mHD
-238 - Press TV
-239 - Euronews
-240 - Al Jazeera
-241 - Africa News Network HD
-243 - NASA TV HD
-244 - Spike TV
-245 - Tru TV East
-246 - WGN America
-247 - FXX East
-248 - Ovation
-249 - Crime + Investigation Network USA
-250 - ION Television East
-251 - Deutsche Welle
-252 - NHK World
-253 - Arirang TV HD
-254 - Newsmax TV HD
-255 - Byu TV HD
-280 - Music Videos 1 = Vevo TV - Hits
-281 - Music Videos 2 = Vevo TV - Flow
-282 - Music Videos 3 = Vevo TV - Nashville
-283 - Music Videos 4 = Spirit Television HD
-284 - Music Videos 5 = MTV.AM (Армянское Музыкальное Телевидение) HD
-285 - Music Videos 6 = m2o Radio (Koi FM)
-286 - Music Videos 7 = DJing - Underground HD
-287 - Music Videos 8 = DJing - Ibiza HD
-288 - Music Videos 9 = Radio Monte Carlo TV
-289 - Music Videos 10 = Hit TV
-290 - Music Videos 11 = Amazing TV
-291 - Music Videos 12 = Supersonic TV
-292 - Music Videos 13 = Vevo TV - Flow
-293 - Music Videos 14 = Dream TV
-294 - Music Videos 15 = Power Türk TV
-295 - Music Videos 16 = MIFA (1 Minute Loop)
-296 - Music Videos 17 = Radio RTL 102.5 TV
-297 - Music Videos 18 = Formusic.tv
-298 - Music Videos 19 = Mfmtv
-299 - Music Videos 20 = Reggae Entertainment TV
-300 - HBO East
-301 - HBO 2 East
-302 - HBO Signature East
-303 - HBO West
-304 - HBO 2 West
-305 - HBO Family East
-307 - HBO Comedy East
-308 - HBO Zone
-310 - Cinemax East
-311 - Cinemax West
-313 - ActionMax East
-314 - 5 StarMax
-316 - ThrillerMax East
-318 - Showtime East
-319 - Showtime West
-320 - Showtime 2 East
-321 - Showtime Showcase East
-322 - Showtime Extreme East
-323 - Showtime Beyond East
-324 - Showtime Next
-327 - The Movie Channel East
-328 - The Movie Channel Xtra East
-340 - Encore East
-342 - Encore Westerns
-343 - Encore Action East
-350 - Starz East
-351 - Starz West
-352 - Starz Edge East
-353 - Starz Cinema East
-354 - Starz Comedy East
-355 - Starz In Black East
-356 - Starz Kids & Family East
-359 - SKY Movies Premiere
-361 - SKY Movies Modern Greats
-362 - SKY Movies Disney
-363 - SKY Movies Family
-364 - SKY Movies Action & Adventure
-365 - SKY Movies Comedy
-366 - SKY Movies Crime & Thriller
-367 - SKY Movies Drama & Romance
-368 - SKY Movies Sci-Fi & Horror
-369 - SKY Movies Select
-370 - True Movies 1
-371 - True Movies 2
-372 - Movies 24
-373 - Film 4
-374 - MTV Live
-379 - Hallmark Movies & Mysteries
-386 - Sony Movie Channel USA
-396 - Outdoor Channel
-400 - Tennis Channel
-401 - Golf Channel
-402 - Setanta Sports
-403 - At The Races
-404 - Racing UK
-405 - Eurosport 1
-406 - Eurosport 2
-407 - MUTV
-408 - MSG
-409 - BOXnation
-410 - Sky Sports 1
-411 - Sky Sports 2
-412 - Sky Sports 3
-413 - Sky Sports 4
-414 - Sky Sports 5
-415 - Sky Sports F1
-416 - BT Sports 1
-417 - BT Sports 2
-418 - Astro SuperSport 1
-419 - Astro SuperSport 2
-420 - Astro SuperSport 3
-421 - Yes Network
-423 - Fox Sports Florida
-427 - Fox Sports West
-429 - Comcast Sports Net Bay Area
-430 - Fox Sports South
-432 - MASN
-434 - New England Sports Network (NESN)
-436 - Fox Sports Southwest
-438 - Comcast Sports Net California
-439 - Comcast Sports Net New York
-441 - Fox Sports Prime Ticket
-442 - Time Warner Cable Sportsnet Dodgers
-443 - Time Warner Cable Sportsnet Lakers
-455 - Ultimate Events & Sports =
-456 - Ultimate Events & Sports 2 =
-650 - Real Madrid TV
-651 - ETB Sat
-652 - Canal Sur Andalucía
-653 - Canal Extremadura
-654 - Castilla la Mancha TV
-655 - Huelva Televisión
-656 - TV 3
-657 - 13 TV
-659 - Galicia
-660 - Lancelot TV
-661 - InterEconomia TV
-662 - Canalcosta Televisión
-663 - Navarra TV
-664 - 8 TV
-665 - 7 TV Región de Murcia
-666 - Unicanal
-667 - Red Guarani
-668 - Canal Once Punta del Este
-669 - Tv Maya
-670 - Vea Canal
-671 - Mas TV Puerto Rico
-672 - Tukanal TV
-673 - Canal 2 Nicaragua
-675 - Viva Nicaragua Canal 13
-676 - TV Sur Canal 14
-677 - SMOtv Positive Channel
-678 - Colosal Music TV
-680 - SINART Canal 13
-681 - Canal 11 Costa Rica
-682 - VM Latino Canal 29 (El Canal Video Musica TV)
-683 - Repretel 6
-684 - Extra TV Canal 42
-685 - TVN Canal de Vida
-686 - UCSG Televisión
-687 - SER TV
-688 - Telemetro Radio
-689 - PAT
-690 - Red Advenir
-691 - Televisa Canal 5
-692 - Azteca Trece
-693 - TV Más
-694 - Milenio Televisión
-695 - Canal 3 Culiacan Sinaloa
-696 - Capital 21 CDMX
-697 - Proyecto 40
-698 - Canal Once TV
-699 - Cubavision Internacional
-700 - Canel 9 La Union
-701 - TVES Canal 10
-702 - Canal 11 El Savador
-703 - Cholusat Sur Canal 36
-704 - TEN Canal 10 (TV Educativa Nacional)
-705 - HCH TV (Hable Como Habla TV)
-706 - TeleDanli Canal 9
-707 - Globo TV Honduras
-708 - Canal Antiestrés
-709 - TV Agro
-710 - Tele Amiga
-711 - Cosmovision
-712 - Life Design TV HD
-713 - Telecafé
-714 - Telemedellin
-715 - Canal Uno
-716 - Canal U
-717 - Cali TV
-718 - Televisora Venezolana Social
-719 - TVO Canal 23 (Televisión Oriental)
-720 - Tele Aragua
-721 - PDVSA TV
-722 - TRT
-723 - Promar TV
-724 - Agrotendencia TV
-725 - Canal I
-726 - ITV Patagonia
-727 - Valle TV de Aconcagua
-728 - Campus TV (Universidad de Talca)
-729 - El Pingüino TV
-730 - VTV Valle
-732 - Telpin TV Canal 2 HD
-733 - TLX Telemax
-734 - TN Argentina
-735 - Misiones Cuatro
-736 - Canal Orbe 21
-737 - TV Maná Argentina
-738 - Canal 26 Argentina
-739 - 360 TV
-740 - Sol TV Perú
-741 - Latina Network
-742 - Capital TV
-743 - UCV Satelital
-744 - RBC Online
-746 - Mega TV Peru
-747 - Willax TV
-748 - Pacifico Television Virtual
-749 - Tele Antillas
-750 - Antena Latina
-751 - Color Visión (Canal 9)
-752 - Telesistema Canal 11
-753 - TRA Digital
-754 - TeleFuturo Canal 23
-755 - Tele Universo
-756 - Canal 25
-757 - CDN 2
-758 - CDN Canal 37
-759 - KiTV 4 ABC
-760 - Focus 49 Olelo
-761 - Jamaica Education TV
-762 - C TV Trinidad (C Television)
-763 - TVJ Jamaica
-764 - TVJ Sports
-765 - WinHD Trinidad
-766 - Telearuba
-767 - Belarus 24
-768 - Tele Boston - Haiti
-769 - Cinestream TV
-770 - CBA TV
-771 - Nos TV Bonaire
-805 - Byu TV International
-806 - TreceVision
-807 - Canal 13 Nicaragua
-808 - Teleuno
-809 - TV 7 Ecuador
-810 - Telesur
-811 - Azteca 13
-812 - Canal 17 El Salvador
-813 - TV Azteca Honduras
-814 - Telecaribe
-815 - Ve Plus TV
-816 - Arica TV
-817 - C5N
-818 - Telecentro Canal 13
-819 - Digital Quince (Canal 15)
-820 - Telemicro Canal 5
-821 - TV Marti
-822 - Teveo TV
-823 - Gala TV
-824 - Az Mundo
-825 - Canal De Las Estrellas
-826 - Estrella TV
-827 - Univision
-828 - UniMas
-829 - Mega TV
-830 - NBC Universo
-831 - MEGA
-832 - TV Chile
-833 - RCN Novelas
-834 - AZ Corazon
-835 - Telemundo
-836 - Telemundo Internacional
-837 - Tlnovelas America
-838 - Antena 3
-839 - Galicia TV
-840 - La Sexta
-841 - Caracol Internacional
-842 - DW Latinoamerica
-843 - TV Globo Internacional
-844 - TV 5 Monde
-845 - Discovery en Español
-846 - Discovery Theater
-847 - Discovery World
-848 - Discovery Home & Health Latinoamerica
-849 - H2 Latinoamerica
-850 - History en Español
-851 - National Geographic Latinoamerica
-852 - Nat Geo Wild Latino America
-853 - Animal Planet Latinoamerica
-854 - ESPN Latinoamerica
-855 - ESPN 2 Latinoamerica
-856 - ESPN 3 Latinoamerica
-857 - Fox Sports Latinoamerica
-858 - Fox Sports 2 Latinoamerica
-859 - Fox Sports 3 Latinoamerica
-860 - F1 Latinoamerica
-861 - UFC Network Latinoamerica
-862 - BeinSports en Español
-863 - Planeta Futbol
-864 - TDN Mexico
-865 - Univision TDN
-866 - GolTV
-867 - DXTV
-868 - Golf Channel Latinoamerica
-869 - Univision Deportes
-870 - Disney Channel Norte
-871 - Disney XD Norte
-872 - Disney Junior Norte
-873 - Nickelodeon Latinoamerica
-874 - Nick Jr Latinoamerica
-875 - Discovery Kids America Latina
-876 - Cartoon Network Latinoamerica
-877 - Boomerang Latinoamerica
-878 - CBeebies Latinoamerica
-879 - Tooncast
-880 - Baby TV Latinoamerica
-885 - Canal Sony
-886 - BBC Entertainment Latinoamerica
-887 - Unicable
-888 - Warner Channel Latinoamerica
-889 - E! Latinoamerica
-890 - FX Latino
-891 - Universal Channel America Latina
-892 - Fox Latinoamerica
-893 - Syfy Latinoamerica
-894 - A&E Latinoamerica
-895 - Investigation Discovery Latinoamerica
-896 - TLC Latinoamerica
-897 - AXN Latinoamerica
-898 - Eurochannel
-900 - MundoFox 
-901 - TNT Series Latinoamerica
-902 - Elgourmet
-903 - Casa Club TV
-904 - TBS America Latina
-905 - Glitz Latinoamerica
-906 - FOX Life
-907 - Distrito Comedia
-908 - Comedy Central Latinoamerica
-909 - Tru TV America Latina
-910 - Efekto TV
-911 - Multimedios Plus
-912 - Lifetime Latinoamerica
-913 - CNN en Español
-914 - El Financiero Bloomberg
-915 - Cable Noticias
-916 - NTN 24
-917 - CB24
-918 - Euronews en Español
-919 - RT en Español
-920 - TVE 24h
-921 - El Tiempo Television
-922 - Travel TV
-923 - MTV Latinoamerica
-924 - MTV Hits Latinoamerica
-925 - VH1 Classic Europe
-926 - VH1 Latino Norte
-927 - K Music
-928 - Concert Channel
-929 - HTV
-930 - Bandamax
-931 - The Retro Channel
-932 - Cine Dinamita
-933 - MultiPremier
-934 - CineLatino
-935 - Golden
-936 - Golden Edge
-937 - Golden Multiplex
-938 - Paramount Channel Latinoamerica
-939 - Sundance Channel Latinoamerica
-940 - TNT America Latina
-941 - CineCanal
-942 - Cinemax Latinoamerica
-943 - SPACE
-944 - AMC
-945 - Studio Universal
-946 - TCM America Latina
-947 - I-Sat
-948 - Europa Europa
-949 - Film & Arts Latinoamerica
-950 - Film Zone
-951 - Fox 1 Este
-952 - Fox 1 Oeste
-953 - Fox Family
-954 - Fox Comedy
-955 - Fox Cinema
-956 - Fox Action Este
-957 - Fox Action Oeste
-958 - Fox Movies Latinoamerica
-959 - Fox Classics Latinoamerica
-960 - HBO Latinoamerica
-961 - HBO 2 Latinoamerica
-962 - HBO Plus Este
-963 - HBO Plus Oeste
-964 - HBO Family Latinoamerica
-965 - HBO Signature Latinoamerica
-966 - Max UP Latinoamerica
-967 - Max Prime Este
-968 - Max Prime Oeste
-969 - MAX
-970 - Golden Premier 1
-971 - Golden Premier 2
-1301 - Star Plus
-1302 - Colors
-1303 - Zee TV
-1304 - Sony
-1305 - SAB TV
-1306 - Aaj Tak
-1307 - Rishtey
-1308 - Sony TV India
-1309 - Jus Punjabi
-1310 - Sanskar TV
-1311 - Astha TV
-1312 - Sony India
-1313 - Sony Six
-1314 - Star Sports 1
-1315 - Willow
-1316 - Star Sports 4
-1317 - TEN Sports
-1318 - WB India
-1319 - Zee Cinema
-1320 - Movies Ok
-1321 - HBO India
-1322 - WOW Cinema
-1323 - Maha Movie
-1324 - Cinema TV
-1325 - Star Movies
-1326 - B4U Movies
-1327 - DD News
-1328 - IBN 7
-1329 - ETV Up
-1330 - CNBC Awaaz
-1331 - ABP News.
-1332 - NDTV Profit
-1333 - NDTV 24x7
-1334 - Aaj Tak.
-1335 - IBN Lokmat
-1336 - Halla Bol! HD
-1337 - India Today
-1338 - MH1
-1339 - PTC Punjabi
-1340 - PTC Chak De
-1341 - PTC Punjabi..
-1342 - Zee Punjabi
-1343 - 9x Tashan
-1344 - Sahara One
-1345 - Tamilan TV
-1346 - Jaya Plus
-1347 - ARY Zauq
-1348 - Samay
-1349 - PlayMax
-1350 - Dunya
-1351 - Geo TV
-1352 - TV One
-1353 - ARY News
-1354 - PTV News
-1355 - Hadi TV
-1356 - IQRA TV
-1357 - Samaa TV
-1358 - Ma'an Network
-1359 - Dunya News
-1360 - GS TV
-1361 - Bloomberg India
-1501 - Rai Premium
-1502 - Rai 2
-1503 - Rai 4
-1504 - Rai 5
-1505 - Rai News 24
-1506 - La 7
-1507 - Rai Movie
-1508 - Brescia TV
-1509 - Sky TG24
-1510 - Tele Sondrio News
-1511 - Japanet Channel DX
-1516 - CBS TV
-1517 - TV Chosun
-1521 - LifeNews
-1522 - Efir 24
-1523 - RBK TV
-1524 - Spas Telekanal
-1525 - Moya Planeta
-1526 - 112 Ukraina
-1527 - Perviy Internet Kanal
-1528 - Nano TV
-1529 - Bashkirskoe Sputnikovoe TV
-1530 - 24 Krim
-1531 - Al Jazeera Documentary
-1532 - Alforat News
-1533 - TRT Arapça
-1534 - Al Jazeera Arabic
-1535 - Alhurra TV (Black Screen)
-1536 - BBC Arabic Televison
-1537 - Al Manar
-1538 - Al Horreya TV
-1539 - Shamshad TV
-1540 - Al Sharqiya News
-1569 - Kanal 10 Sverige
-1570 - TeleBärn
-1571 - Mana-Sat (Tv Maná Françês)
-1572 - BFM TV
-1573 - iTélé
-1574 - Wéo TV
-1576 - La Chaîne Normande
-1577 - TVPI
-1578 - BFM Business
-1579 - TV Rennes
-1580 - Alsace 20
-1581 - TVA
-1582 - L'Assemblée nationale du Québec
-1583 - CPAC
-1584 - EET Television
-1585 - The Shopping Channel
-1592 - München TV
-1593 - Alex Berlin TV
-1594 - Baden TV
-1595 - NDR Fernsehen HD
-1596 - Das Erste
-1597 - TVA Ostbayern
-1598 - TV Oberfranken
-1599 - Sachsen Fernsehen
-1600 - Welt der Wunder TV
-1601 - DIGI 24 HD
-1602 - Speranta TV
-1603 - Salajeanul TV
-1604 - U TV
-1605 - Antena News
-1606 - TV Kit
-1607 - DiBi TV
-1608 - Neamt TV
-1609 - TV M Neamt
-1610 - Austria24 TV
-1611 - Taiwan Macroview TV
-1612 - BS TV
-1613 - CCTV 1
-1614 - CCTV 2
-1615 - CCTV 5
-1616 - CCTV 6
-1617 - CCTV 9
-1618 - Sinovision
-1619 - Sichuan TV
-1620 - HKS TV
-1623 - Extra
-1624 - Zougla TV
-1625 - Kontra Channel
-1626 - TV 100
-1627 - Sigma TV
-1631 - Boztepe TV
-1632 - Show TV
-1633 - Bursaspor TV
-1634 - TRT Diyanet
-1635 - Kanal D HD
-1636 - TRT 1 HD
-1638 - CNN Turk
-1639 - TRT Haber
-1640 - Gunaz TV (Güney Azərbaycan Televizyonu)
-1641 - Hidabroot
-1642 - Channel 2
-1643 - B4U Music
-1644 - Shalom TV (TBN Shalom)
-1645 - M1 TV
-1646 - Hir TV
-1647 - BNT World
-1648 - Diaspora 24 TV (D24)
-1649 - Fashion One Africa
-1650 - Antenna Verde
-1651 - Laayoune TV
-1652 - Afrique Media
-1654 - Télé MB
-1655 - Fusion Plus TV
-1656 - TVC News
-1657 - OTV Lebanon
-1658 - Al Hiwar TV
-1659 - Mekameleen TV
-1661 - Económico TV (ETV)
-1662 - IURD TV
-1664 - TV Lisboa
-1665 - TCV (Televisão de Cabo Verde - RTC)
-1666 - Agueda TV
-1667 - TV Maná 1
-1669 - TVI 24
-1670 - TVI
-1671 - TV Poços
-1672 - Rede NGT
-1673 - Canal Do Boi
-1674 - TV Cultura Nacional
-1675 - Rede TV!
-1676 - Aperipe TV
-1677 - Novo Canal (Tele-Sales)
-1678 - Novo Tempo
-1679 - TV Ponta Negra
-1680 - TVE
-7778 - Wapa 2 (WAPA-DT 2)
-7780 - Punto 2
-7781 - Telemundo Puerto Rico (WKAQ-TV)
-7782 - Wapa (WAPA-TV)
-7784 - Univision Puerto Rico
-7788 - ABC 5 Puerto Rico (WORA-DT2)
-8100 - ABC New York (WABC-TV)
-8101 - CBS New York (WCBS-TV)
-8102 - NBC New York (WNBC-TV)
-8103 - Fox New York (WNYW-TV)
-8228 - Univision Los Angeles
-8229 - Telemundo Los Angeles
-8830 - ABC Miami (WPLG-TV)
-8832 - NBC Miami (WTVJ-TV)
-8833 - FOX Miami (WSVN-TV) 
+#EXTM3U
+
+
+
+
+#EXTINF:-1 , TMZ TV
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+
+#EXTINF:-1 , TBD TV
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+
+#EXTINF:-1 , REDBULL 2 TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
+#EXTINF:-1 , REDBULL TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+
+#EXTINF:-1 , MMAJUNKIE TV
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+
+
+#EXTINF:-1 , FAILARMY TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+
+
+#EXTINF:-1 , FAILARMY 2 TV
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+
+#EXTINF:-1 , CAPITAL TV music
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+
+#EXTINF:-1 , RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1 , TELEMAX TV
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+
+#EXTINF:-1 , EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 , DISTRITO COMEDIA TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/47_.m3u8?token=VdEVI4VVNwb3WMmL3m8eMw&expires=1648253500&ip=179.15.37.223
+
+
+#EXTINF:-1 , TNT SPORTS TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/9_.m3u8?token=YaS-St5-LvMEE-FTIubFMA&expires=1648253430&ip=179.15.37.223
+
+
+#EXTINF:-1 , ALF TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/128_.m3u8?token=3dzvv615zE1p8Vw2peKm6A&expires=1648253397&ip=179.15.37.223
+
+
+#EXTINF:-1 , SOUTHPARK TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/146_.m3u8?token=xzfr5G8jXcRbFdiYL4K5NQ&expires=1648253347&ip=179.15.37.223
+
+
+#EXTINF:-1 , SPACE TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=I0u5h5KO55BDgeY_A3WnRA&expires=1648253274&ip=179.15.37.223
+
+
+#EXTINF:-1 , SYFY TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=uNzETYRJyizZC4-nSXLCcA&expires=1648253195&ip=179.15.37.223
+
+
+#EXTINF:-1 , CINE CANAL TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=I0v16Owdvhmy6vpeREDsIA&expires=1648253140&ip=179.15.37.223
+
+
+#EXTINF:-1 , HBO MUNDI TV
+https://edge2.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD-avc2_1726000=10002.m3u8
+
+
+#EXTINF:-1 , TNT SERIES TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=f9LHHuZE7JrWiUsVWGUbZg&expires=1648244557&ip=179.15.37.223
+
+
+#EXTINF:-1 , TNT TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=VKZT_KnEY4BJh0BmQzfgOQ&expires=1648244476&ip=179.15.37.223
+
+
+#EXTINF:-1 , FOX TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=3XE59V0O7LXVN-8Pjzy_ow&expires=1648241198&ip=179.15.37.223
+
+
+
+#EXTINF:-1 , HBO TV
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_1972000=10002.m3u8
+
+
+#EXTINF:-1 , HBO 2 TV
+https://edge2.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2-avc1_1480000=10002.m3u8
+
+
+#EXTINF:-1 , TODO NOTICIAS TV
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+
+
+#EXTINF:-1 , DW ESPAÑOL TV
+https://www.youtube.com/watch?v=bKpGAHgpYoU
+
+
+#EXTINF:-1 , NOTICIAS CARACOL TV
+https://www.youtube.com/watch?v=hXvy91-w1B4
+
+
+#EXTINF:-1 , FASHION TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
+
+
+#EXTINF:-1 , MUNDO + TV co
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+
+#EXTINF:-1 , CANAL CAPITAL TV co
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1 , MIAMI TV co
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+
+
+#EXTINF:-1 , TELESUR TV cr
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+
+#EXTINF:-1 , JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+
+#EXTINF:-1 , LANCELOT TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+
+#EXTINF:-1 , PORTAL FOXMIX TV music
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+
+#EXTINF:-1 , LOCA TV
+http://184.173.181.2:1935/8022/8022/playlist.m3u8
+
+
+#EXTINF:-1 , CHETUMAL TV
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+
+#EXTINF:-1 , CAMPUS HD TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+
+#EXTINF:-1 , TEN HONDURAS TV
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+
+#EXTINF:-1 , TELEMAX TV
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+
+#EXTINF:-1 , UHLS 2 TV
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1 , UHLS TV
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1 , MULTIMEDIOS TV mx
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+
+#EXTINF:-1 , MULTIMEDIOS TV cr
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+
+#EXTINF:-1 , LITUS TV br
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+
+#EXTINF:-1 , MULTIVISION TV arg
+
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+
+#EXTINF:-1 , CENTRAL TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+
+#EXTINF:-1 , CBS NEWS TV
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+
+#EXTINF:-1 , CANAL PROVINCIAL TV
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 , CINEMAX TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=cinemax&k=SrRegio2022&dos=.m3u8
+
+
+#EXTINF:-1 , EL NUEVE TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elnueve&k=SrRegio2022&dos=.m3u8
+
+
+#EXTINF:-1 , A MAS TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=amas&k=SrRegio2022&dos=.m3u8
+
+
+#EXTINF:-1 , TBD TV
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+
+#EXTINF:-1 , M2O MUSIC TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+
+#EXTINF:-1 , WOW TV 2
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=wow&k=SrRegio2022&dos=.m3u8
+
+
+#EXTINF:-1 , WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+
+
+#EXTINF:-1 , FIGHT TIME TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=fight&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , TELEMUNDO TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=telemundo&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , GOLTV TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=goltv&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , GALAVISION TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=galavision&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , ESPN 1 TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=espn1-mx&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , CLARO SPORT TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=clarosports&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , BEIN US HD TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=beinhd&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , ADRENALINA TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=adrenalina&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , SPACE TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=space&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , IMAGEN TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=imagentv&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , 5 infantil TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=elcinco&k=SrRegio2022&f=.m3u8
+
+
+#EXTINF:-1 , LA 2 TV
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+
+#EXTINF:-1 , AND40 TV
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+#EXTINF:-1 , NET TV
+http://regioplay.xyz/php/SR_REGIO_223022_/nettv.php?f=.m3u8
+
+
+#EXTINF:-1 , EL CHAVO TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
+
+#EXTINF:-1 , WAPPTV TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=wapptv&f=.m3u8
+
+
+#EXTINF:-1 , HORRORFY TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=horrorfy&f=.m3u8
+
+
+#EXTINF:-1 , EURONEWS ESPAÑOL TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=euronews-spa&f=.m3u8
+
+
+#EXTINF:-1 , SPANGLISH TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=spanglish&f=.m3u8
+
+
+#EXTINF:-1 , CASA COMEDY TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=casa-comedy&f=.m3u8
+
+
+#EXTINF:-1 , FLASH MUSIC TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=flash-1&f=.m3u8
+
+
+#EXTINF:-1 , TU CINE TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=tu-cine-latam&f=.m3u8
+
+
+#EXTINF:-1 , TOP CINE TV
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=top-cine-latam&f=.
+
+
+#EXTINF:-1 , CGTN ESPAÑA TV
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+
+#EXTINF:-1 , UNOPLAY TV
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
+
+#EXTINF:-1 , VORTERIX TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
+
+
+#EXTINF:-1 , WTV TV
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+
+#EXTINF:-1 , PLANETA MOVIE TV
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+
+
+#EXTINF:-1 , PROMETEUS lat
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+
+#EXTINF:-1 , DEADPOOL lat
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+
+#EXTINF:-1 , INTENSAMENTE lat
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+
+
+#EXTINF:-1 , GUARDIANES DE LA GALAXIA lat
+https://goo.gl/sFaEVq
+
+
+#EXTINF:-1 , LA FORMA DEL AGUA sub
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+
+
+#EXTINF:-1 , ANGRY BIRDS lat
+http://cecegeek@goo.gl/3KGMLf
+
+
+#EXTINF:-1 , ANDY WEXLER lat
+http://bit.ly/MRAQCSAND
+
+
+#EXTINF:-1 , THE MINE lat
+http://bit.ly/THEMINE
+
+
+#EXTINF:-º1 , VOLVER AL FUTURO lat
+http://regioplay.xyz/php/SR_REGIO_223022_/volver.php?f=.mp4
+
+
+#EXTINF:-º1 , VOLVER AL FUTURO II lat
+http://regioplay.xyz/php/SR_REGIO_223022_/volver2.php?f=.mp4
+
+
+#EXTINF:-º1 , VOLVER AL FUTURO III lat
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+
+#EXTINF:-1 , RENO 911 sub
+http://144.217.69.162/PELIS_STALKER/Reno.911.The.Hunt.For.QAnon.2021.Comedia.HDRip.VOSE.mp4
+
+
+#EXTINF:-1 , VOYAGERS lat
+http://144.217.69.162/PELIS_STALKER/Voyagers.2021.SciFi.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , VENOM 2 sub
+http://144.217.69.162/PELIS_STALKER/Venom.Let.There.Be.Carnage.SUB.2021.mp4
+
+#EXTINF:-1 , VENOM 2 lat
+http://regioplay.xyz/223022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
+
+
+#EXTINF:-1 , VHS sub
+http://144.217.69.162/PELIS_STALKER/VHS.94.2021.720p.mkv
+
+
+#EXTINF:-1 , UNA FAMILIA GENIAL lat
+http://144.217.69.162/PELIS_STALKER/Una.familia.genial.2017.Aventura.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , SPIDERMAN LEJOS DE CASA lat
+http://144.217.69.162/PELIS_STALKER/Spider.Man.2.Lejos.de.casa.2019.Accion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , SPIDERMAN DE REGRESO A CASA lat
+http://144.217.69.162/PELIS_STALKER/Spider.Man.1.De.regreso.a.casa.2017.Accion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , 30 DIAS DE NOCHE lat
+http://144.217.69.162/PELIS_STALKER/30.d%c3%adas.de.noche.1.2007.Terror.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , 30 DIAS DE NOCHE 2 lat
+http://144.217.69.162/PELIS_STALKER/30.d%c3%adas.de.noche.2.D%c3%adas.oscuros.2010.Terror.HDRip.LATINO%20.mp4
+
+
+#EXTINF:-1 , ALICIA EN EL PAIS DE LAS MARAVILLAS lat
+http://144.217.69.162/PELIS_STALKER/Alicia.1.en.el.Pa%c3%ads.de.las.Maravillas.2010.Aventuras.BDRip.LATINO.mp4
+
+
+#EXTINF:-1 , ALICIA 2 ATRAVES DEL ESPEJO lat
+http://144.217.69.162/PELIS_STALKER/Alicia.2.a.trav%c3%a9s.del.espejo.2016.Aventuras.BDRip.LATINO.mp4
+
+
+#EXTINF:-1 , CARBON ALTERADO REENFUNDADOS sub
+http://144.217.69.162/PELIS_STALKER/Altered.Carbon.Reenfundados.2020.Animacion.BRRip.VOSE.mp4
+
+
+#EXTINF:-1 , ASSASSINS CREED lat
+http://144.217.69.162/PELIS_STALKER/Assassins.Creed.2016.Accion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , CANDYMAN lat
+http://144.217.69.162/PELIS_STALKER/Candyman.2021.720p.mkv
+
+#EXTINF:-1 , CARIÑO CUANTO TE ODIO lat
+http://144.217.69.162/PELIS_STALKER/Carino.cuanto.te.odio.2021.Romance.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , COMO SI FUERA LA PRIMERA VEZ lat
+http://144.217.69.162/PELIS_STALKER/Como.si.fuera.la.primera.vez.2004.Romance.BRRip.LATINO.mp4
+
+
+#EXTINF:-1 , DRACULA MUERTO PERO FELIZ lat
+http://144.217.69.162/PELIS_STALKER/Dr%c3%a1cula.Muerto.pero.feliz.1995.Comedia.BRRip.LATINO.mkv
+
+#EXTINF:-1 , DUNE lat
+http://144.217.69.162/PELIS_STALKER/Dune.2021.mkv
+
+
+#EXTINF:-1 , EIFFEL lat
+http://144.217.69.162/PELIS_STALKER/Eiffel.2021.Drama.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , EL CONTADOR DE CARTAS lat
+http://144.217.69.162/PELIS_STALKER/El.contador.de.cartas.2021.Accion.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , ETERNALS lat
+http://144.217.69.162/PELIS_STALKER/Eternals.2021.Accion.HDRip.LATINO.mkv
+
+
+#EXTINF:-1 , ETERNALS lat
+http://regioplay.xyz/223022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+
+
+#EXTINF:-1 , CAZAFANTASMAS lat
+http://144.217.69.162/PELIS_STALKER/Ghostbusters.2016.Comedia.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , CAZAFANTASMAS MAS ALLA lat
+http://144.217.69.162/PELIS_STALKER/Ghostbusters.Afterlife.2021.Comedia.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , JAKASS FOREVER lat
+http://144.217.69.162/PELIS_STALKER/Jackass.por.siempre.2022.Comedia.HDRip.LATINO.mkv
+
+
+#EXTINF:-1 , KINGSMAN SERVICIO SECRETO lat
+http://144.217.69.162/PELIS_STALKER/Kingsman.1.The.Secret.Service.2014.Accion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , KINGSMAN CIRCULO DORADO lat
+http://144.217.69.162/PELIS_STALKER/Kingsman.2.The.Golden.Circle.2017.Accion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , KINGSMAN 3 lat
+http://144.217.69.162/PELIS_STALKER/Kingsman.3.The.Kings.Man.2021.Accion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , LA ERA DEL HIELO lat
+http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.1.2002.Animacion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , LA ERA DEL HIELO 2 lat
+http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.2.2006.Animacion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , LA ERA DEL HIELO 3 lat
+http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.3.2009.Animacion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , LA ERA DEL HIELO 4 lat
+http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.4.2012.Animacion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , LA ERA DEL HIELO 5 lat
+http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.5.Choque.de.mundos.2016.Animacion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , LA ERA DEL HIELO 6 lat
+http://144.217.69.162/PELIS_STALKER/La.era.de.hielo.6.2022.Animacion.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , LA HERENCIA DEL SEÑOR DEEDS lat
+http://144.217.69.162/PELIS_STALKER/La.herencia.del.Sr.Deeds.2002.Comedia.BRRip.LATINO.mkv
+
+
+#EXTINF:-1 , MATRIX RESURRECCIONES lat
+http://144.217.69.162/PELIS_STALKER/Matrix.Resurrecciones.2021.Accion.HDRip.LATINO.mp4
+
+#EXTINF:-1 , MATRIX RESURRECCIONES opcion 2 lat
+http://regioplay.xyz/php/SR_REGIO_223022_/matrix2021.php?f=.mp4
+
+
+#EXTINF:-1 , RESIDENT EVIL BIENVENIDOS A RACCOON CITY lat
+http://144.217.69.162/PELIS_STALKER/Resident.Evil.Bienvenidos.a.Raccoon.City.2021.Terror.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , SCREAM lat
+http://144.217.69.162/PELIS_STALKER/Scream.2022.Terror.HDRip.LATINO.mkv
+
+
+#EXTINF:-1 , SHANG CHI lat
+http://144.217.69.162/PELIS_STALKER/Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.mkv
+
+
+#EXTINF:-1 , SNAKE EYES GIJOE lat
+http://144.217.69.162/PELIS_STALKER/Snake.Eyes.G.I.Joe.Origins.2021.mkv
+
+
+#EXTINF:-1 , SOUTH PARK POST COVID 1 lat
+http://144.217.69.162/PELIS_STALKER/South.Park.Post.Covid.1.2021.Animacion.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , SOUTH PARK POST COVID 2 lat
+http://144.217.69.162/PELIS_STALKER/South.Park.Post.Covid.2.The.Return.of.Covid.2021.Animacion.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , LOS SIMPSONS EN PLUS ANIVERSARIO lat
+http://144.217.69.162/PELIS_STALKER/The.Simpsons.in.Plusaversary.2021.1080p.mkv
+
+
+#EXTINF:-1 , SUICIDE SQUAD 2 lat
+http://144.217.69.162/PELIS_STALKER/The.Suicide.Squad.2021.mkv
+
+
+#EXTINF:-1 , EL ESTAFADOR DE TINDER lat
+http://144.217.69.162/PELIS_STALKER/The.Tinder.Swindler.2022.Documental.HDRip.LATINO.mp4
+
+
+#EXTINF:-1 , FRANCO ESCAMILLA BIENVENIDO AL MUNDO lat
+http://regioplay.xyz/php/SR_REGIO_223022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
+
+
+#EXTINF:-1 , FREE GUY lat
+http://regioplay.xyz/223022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
+
+
+#EXTINF:-1 , NO RESPIRES 2 lat
+http://regioplay.xyz/223022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+
+
+
+#EXTINF:-1 , FAST AND FURIOUS 9 lat
+http://regioplay.xyz/223022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+
+
+#EXTINF:-1 , FAST AND FURIOUS 9 lat
+http://regioplay.xyz/223022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+
+
+#EXTINF:-1 , MASACRE EN TEXAS 2022 lat
+http://regioplay.xyz/php/SR_REGIO_223022_/masacreentexas2022.php?f=.mp4
+
+
+#EXTINF:-1 , PROJECT GEMINI 2022 sub
+https://www325.ff-01.com/token=fHi5YnRMUAsqXDF7D2UYQQ/1648252066/2800:e2::/187/d/57/815c7983a3a51529eadd8e8b238ed57d-720p.mp4
+
+
+#EXTINF:-1 , JAKASS FOREVER 2022 sub
+https://www234.ff-01.com/token=dfPkh598y0mBh6T7qhYfLQ/1648252287/2800:e2::/102/0/36/ce85e51facb38246829f43f013f60360-1080p.mp4
+
+
+#EXTINF:-1 , EL CALLEJON DE LAS ALMAS PERDIDAS 2021 sub
+https://www822.ff-02.com/token=FzAIRIF2IQWAnIaq9Kkf5g/1648252398/2800:e2::/192/e/0f/f4ec3dd83f2223f4d3f7db56b28ed0fe-1080p.mp4
+
+
+#EXTINF:-1 , VIUDA NEGRA sub
+https://s10.zplayer.live/hls/5fxcu4qzwonufvsa6lie7agu4kcsp2y3zcxdmo4auflm577btxeo3f4xvzba/index-v1-a1.m3u8
+
+
+#EXTINF:-1 , UN LUGAR TRANQUILO 2 sub
+https://www2127.ff-05.com/token=o-tAJNULbo4fZShueVDVTA/1648252680/2800:e2::/171/7/bf/41549b93e344bfc5a756a40931127bf7-720p.mp4
+
+
+#EXTINF:-1 , GODZILLA VS KONG sub
+https://www91.ff-01.com/token=XyBwF5e4V9ZClpqodUs7PA/1648253072/2800:e2::/154/6/db/ca13db9daf608d83ff283fe76b07adb6-1080p.mp4
+
+
+#EXTINF:-1 , FREE GUY sub
+https://s10.zplayer.live/hls/5fxcvnagwonufvsa6lpu7uwrux4isnccoyz7377zzdhomgkrzm4h2jrkeqkq/index-v1-a1.m3u8
+
+
+#EXTINF:-1 , THE ADAM PROJECT 2022 sub
+https://s1.zplayer.live/hls/5fxc7zayxwnufvsa6i5e7uwj4dcheifucge7blwmnywdejcxjapn572ephqa/index-v1-a1.m3u8
+
+
+#EXTINF:-1 , LA GUERRA DEL MAÑANA sub
+https://www239.ff-01.com/token=G30NxxtZu6xSSDnEiDK9dg/1648256347/2800:e2::/164/7/b8/f8bcd2010af061a3b5de469517088b87-1080p.mp4
+
+
+#EXTINF:-1 , JHONNY ENGLISH sub
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+
+
